@@ -7,3 +7,5 @@ https://github.com/pollen-robotics/microduck
 https://github.com/zhuoligetu123/microduck-hd1910m
 https://github.com/LuwuDynamics/xgoduck_hardware
 
+https://github.com/kissqy/Microduck-kissqy
+
